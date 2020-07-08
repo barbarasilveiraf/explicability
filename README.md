@@ -1,2 +1,2 @@
 # explicability
-Notebooks de estudo sobre explicabilidade de modelos de ML
+Notebooks de estudos sobre explicabilidade de modelos de ML
